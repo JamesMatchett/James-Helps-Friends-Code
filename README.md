@@ -1,0 +1,1 @@
+# Speed-of-light-for-a-friend
