@@ -12,26 +12,16 @@ namespace ConsoleApplication1
         {
 
             Console.WriteLine("Enter the distance the light has to travel in meters");
-
-
             decimal meters = Convert.ToDecimal(Console.ReadLine());
-
-
-            //speed of light in m/s
+           
+           //speed of light in m/s
             const decimal SpeedOfLight = 299792458;
 
             //using v = d/t -> t =d/v
-
             decimal time = meters / SpeedOfLight;
 
             Console.WriteLine("The time it takes light to travel {0} meters is {1} seconds", meters, time);
-            Console.ReadKey();
-
-            
-
-
-
-
+            Console.ReadKey();      
         }
     }
 }
