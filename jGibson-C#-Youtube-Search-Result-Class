@@ -7,8 +7,7 @@ using System.Net;
 using System.Threading;
 
 //small class library for parsing the search results on youtube's page for a project he was working on
-//not tested by me but assuming it must mostly work as i wasn't told there was a problem with it
-
+//"J Gibson" reports that it works a treat which is nice to hear :) 
 namespace Jord
 {
     public class Class1
