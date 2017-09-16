@@ -10,7 +10,6 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Enter the distance the light has to travel in meters");
             decimal meters = Convert.ToDecimal(Console.ReadLine());
            
