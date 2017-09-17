@@ -1,3 +1,4 @@
+#for https://github.com/JamesMatchett/James-Helps-Friends-Code/issues/4
 #Okay First things first you need to download the IDLE for python which will let you make your code
 
 #https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe
