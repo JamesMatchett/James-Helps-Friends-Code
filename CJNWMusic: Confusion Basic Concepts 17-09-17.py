@@ -1,9 +1,7 @@
 #https://github.com/JamesMatchett/James-Helps-Friends-Code/issues/2
 
-
 #You asked "Why does this: print('print("print")')
 #Become this:              print("print")
-
 
 print('print("print")')
 
