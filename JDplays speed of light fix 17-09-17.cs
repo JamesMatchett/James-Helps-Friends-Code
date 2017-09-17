@@ -1,4 +1,4 @@
-﻿
+
 
 //original code
 if (comboBox3.SelectedItem.ToString() == "Distance" && comboBox2.SelectedItem.ToString() == "Speed of light")
@@ -14,7 +14,9 @@ var3 = textBox3.Text;
     }
 
 
-    //my suggested fix
+
+
+//my suggested fix
 
     if (comboBox3.SelectedItem.ToString() == "Distance" && comboBox2.SelectedItem.ToString() == "Speed of light")
 {
