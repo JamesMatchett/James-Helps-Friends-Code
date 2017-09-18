@@ -1,6 +1,6 @@
 # James-Helps-Friends-Code
 
-this is just a little repo for me helping friends and others coding etc
+this is just a little repo for me helping friends and strangers coding etc
 
 If you need help with any programming just message me or merge your code in as an and I'll upload the (hopefully) fixed version.
 
