@@ -5,7 +5,6 @@
 
 //once it's installed start up visual studio
 //then File -> New -> Project
-
 //Then in the submenu C# -> Console Application -> Ok
 
 //A blank program file for C# will be generated, this is where the coding is done
@@ -70,4 +69,6 @@ string SurName = Console.ReadLine();
 Console.WriteLine("Your full name is {0} {1}", FirstName, SurName);
 //and we'll keep it on screen
 Console.ReadKey();
-//hope this helps, if you need any more help just raise another issue
+//hope this helps, if you need any more help just raise another issue in the bar above
+                  
+                  
