@@ -68,7 +68,7 @@ string SurName = Console.ReadLine();
 
 //now we'll return this to the user
 
-Console.WriteLine("Your full name is {0} {1}");
+Console.WriteLine("Your full name is {0} {1}", FirstName, SurName);
 //and we'll keep it on screen
 
 Console.ReadKey();
