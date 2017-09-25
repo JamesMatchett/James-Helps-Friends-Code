@@ -6,4 +6,4 @@ If you need help with any programming just message me or merge your code in as a
 
 Or even if you have general "how to get into coding" or tech support problems I'm ehre to help, just send in an issue.
 
-
+Should I make an automated web client for these? Im thinking about it
